@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    background-color: #1f2937;
+}
+
+.header_top {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.header_bottom {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
